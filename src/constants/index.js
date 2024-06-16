@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { zetpeak, sabudh } from "../assets/images";
 import {
     car,
     contact,
@@ -111,58 +111,31 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
-        icon: starbucks,
+        title: "Artificial Intelligence Researcher Intern",
+        company_name: "Zetpeak",
+        icon: zetpeak,
         iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
+        date: "July 2023 - October 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Contributed to innovative research and development in artificial intelligence, specializing in AI assistant development integrating NLP and ML techniques.",
+            "Demonstrated expertise in sentiment analysis, text classification, and NER through improved model accuracy (96.8%), performance evaluations, and collaborative teamwork.",
+            "Utilized Python, TensorFlow, and Keras for deep learning algorithms, alongside NLP libraries like NLTK and spaCy.",
         ],
     },
     {
-        title: "React Native Developer",
-        company_name: "Tesla",
-        icon: tesla,
+        title: "Data Science Intern",
+        company_name: "Sabudh Foundation",
+        icon: sabudh,
         iconBg: "#fbc3bc",
-        date: "Jan 2021 - Feb 2022",
+        date: "Feb 2023 – July 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Orchestrated the development of an automated document processing system and implemented cutting-edge scanning techniques for efficient data extraction, resulting in a 40 percent processing time reduction.",
+            "Led the project’s lifecycle as the project leader and achieved over 200 hours of collective time savings and enhanced data analysis capabilities by 20 percent.",
+            
         ],
     },
     {
-        title: "Web Developer",
-        company_name: "Shopify",
-        icon: shopify,
-        iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
-    {
-        title: "Full stack Developer",
-        company_name: "Meta",
-        icon: meta,
-        iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
-];
+
 
 export const socialLinks = [
     {
@@ -173,12 +146,12 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/Naman1725',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
+        link: 'https://www.linkedin.com/in/namansharma1717',
     }
 ];
 
